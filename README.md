@@ -5,7 +5,7 @@ Design web pages for fun <br/>
 Talk with GPT's <br/>
 Can join me in Insta { https://www.instagram.com/_itzz_ani_/ }
 # 💫 About Me:
-👋 Hi, I'm **Anindita Goswami, a final-year Computer Science student passionate about Data Science, AI/ML, and Backend Development.  <br>💡 I love working on data-driven projects and have experience in Python, SQL, Power BI, and Django.  <br>🚀 Currently, I'm building projects in Sales Forecasting, Customer Segmentation, and Time Series Analysis.  <br>📊 I enjoy exploring Machine Learning, Deep Learning, and Data Visualization to solve real-world problems.  <br>📌 Check out my repositories for hands-on projects, and feel free to collaborate!  <br><br>
+👋 Hi, I'm Anindita Goswami, a final-year Computer Science student passionate about Data Science, AI/ML, and Backend Development.  <br>💡 I love working on data-driven projects and have experience in Python, SQL, Power BI, and Django.  <br>🚀 Currently, I'm building projects in Sales Forecasting, Customer Segmentation, and Time Series Analysis.  <br>📊 I enjoy exploring Machine Learning, Deep Learning, and Data Visualization to solve real-world problems.  <br>📌 Check out my repositories for hands-on projects, and feel free to collaborate!  <br><br>
 
 
 ## 🌐 Socials:
