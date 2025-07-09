@@ -1,5 +1,5 @@
 ## HI, I am Anindita
-Computer Science Student at Sapthagiri College of Engineering <br/>
+A recent graduate with a Bachelor's degree in Computer Science and Engineering from Sapthagiri College of Engineering. <br/>
 I create ML project to learn how the computer learn <br/>
 Design web pages for fun <br/>
 Talk with GPT's <br/>
